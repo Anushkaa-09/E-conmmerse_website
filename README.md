@@ -1,2 +1,2 @@
 # E-commerse_website
-This is a simple website designed by using HTML, CSS JavaScript.
+This is a simple website designed by using HTML, CSS and JavaScript.
